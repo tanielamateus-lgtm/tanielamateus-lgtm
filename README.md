@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="engineer.jpg" width="100%">
+  <img src="<img width="736" height="414" alt="ENGINEER" src="https://github.com/user-attachments/assets/00179384-d421-40d6-a47f-b1b35b994459" />
+" width="100%">
 </p>
  
  Hi, I'm Toniela! 🎀
