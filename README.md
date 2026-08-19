@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="engineer.jpg" width="100%">
+</p>
+ 
  Hi, I'm Toniela! 🎀
 
 I'm just a girl learning to code and building things along the way. 
