@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi, I'm Toniela! 🎀
 
-<!--
-**tanielamateus-lgtm/tanielamateus-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a girl learning to code and building things along the way. 
+🌱 Currently learning
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+🇬🇧 Also learning English
 
-Here are some ideas to get you started:
+I'm still a beginner, but I'm learning, experimenting, making mistakes and improving every day. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm working on
+- Building web projects
+- Improving my programming skills
+- Learning more about web development
+
+ 🎀 A little about me
+- 🇦🇴 From Angola
+- 💻 I love programming
+- 🌱 Always learning something new
+- 🎮 I also enjoy games and anime
+
+> Learning today, building tomorrow.
